@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bunifu.UI.WinForms.BunifuButton</name>
+    </assembly>
+    <members>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.IconRightCursor">
+            <summary>
+            Gets or sets the icon right cursor.
+            </summary>
+            <value>
+            The icon right cursor.
+            </value>
+            
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.IconLeftCursor">
+            <summary>
+            Gets or sets the icon left cursor.
+            </summary>
+            <value>
+            The icon left cursor.
+            </value>
+        </member>
+        <member name="F:Bunifu.UI.WinForms.BunifuButton.BunifuButton._IconLeft">
+            <summary>
+            Gets or sets the icon left.
+            </summary>
+            <value>
+            The icon left.
+            </value>]
+            
+        </member>
+        <member name="F:Bunifu.UI.WinForms.BunifuButton.BunifuButton._IconRight">
+            <summary>
+            Gets or sets the icon right.
+            </summary>
+            <value>
+            The icon right.
+            </value>
+            
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonText">
+            <summary>
+            Gets or sets the text associated with this control.
+            </summary>
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.IconPadding">
+            <summary>
+            Gets or sets the icon padding.
+            </summary>
+            <value>
+            The icon padding.
+            </value>
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.IdleBorderThickness">
+            <summary>
+            Gets or sets the border thickness.
+            </summary>
+            <value>
+            The border thickness.
+            </value>
+            
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.DisabledBorderColor">
+            <summary>
+            Gets or sets the border color disabled.
+            </summary>
+            <value>
+            The border color disabled.
+            </value>
+            
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.DisabledFillColor">
+            <summary>
+            Gets or sets the color of the disabled fill.
+            </summary>
+            <value>
+            The color of the disabled fill.
+            </value>
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.DisabledForecolor">
+            <summary>
+            Gets or sets the disabled forecolor.
+            </summary>
+            <value>
+            The disabled forecolor.
+            </value>
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.IdleBorderColor">
+            <summary>
+            Gets or sets the border color idle.
+            </summary>
+            <value>
+            The border color idle.
+            </value>
+            
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.IdleFillColor">
+            <summary>
+            Gets or sets the color of the fill.
+            </summary>
+            <value>
+            The color of the fill.
+            </value>
+            
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.IdleBorderRadius">
+            <summary>
+            Gets or sets the border radius.
+            </summary>
+            <value>
+            The border radius.
+            </value>
+            
+        </member>
+        <member name="M:Bunifu.UI.WinForms.BunifuButton.BunifuButton.IsInDesignMode">
+            <summary>
+            Determines whether [is in design mode].
+            </summary>
+            <returns>
+              <c>true</c> if [is in design mode]; otherwise, <c>false</c>.
+            </returns>
+            
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.onHoverState">
+            <summary>
+            Gets or sets the state of the on hover.
+            </summary>
+            <value>
+            The state of the on hover.
+            </value>
+        </member>
+        <member name="P:Bunifu.UI.WinForms.BunifuButton.BunifuButton.isOnFocused">
+            <summary>
+            Gets a value indicating whether this instance is on focused.
+            </summary>
+            <value>
+              <c>true</c> if this instance is on focused; otherwise, <c>false</c>.
+            </value>
+            
+        </member>
+        <member name="M:Bunifu.UI.WinForms.BunifuButton.BunifuButton.GetState">
+            <summary>
+            Gets the state.
+            </summary>
+            <returns></returns>
+            
+        </member>
+        <member name="T:Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties">
+            <summary>
+            Class ToggleState.
+            </summary>
+        </member>
+        <member name="E:Bunifu.UI.WinForms.BunifuButton.BunifuButton.IconLeftClick">
+            <summary>
+            Occurs when [icon left click].
+            </summary>
+        </member>
+        <member name="E:Bunifu.UI.WinForms.BunifuButton.BunifuButton.IconRightClick">
+            <summary>
+            Occurs when [icon right click].
+            </summary>
+        </member>
+        <member name="F:Bunifu.UI.WinForms.BunifuButton.BunifuButton.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Bunifu.UI.WinForms.BunifuButton.BunifuButton.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Bunifu.UI.WinForms.BunifuButton.BunifuButton.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>
